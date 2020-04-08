@@ -6,4 +6,4 @@ A very basic script to scrape Indeed Jobs based on 3 inputs
 
 The result is a `.csv` in pipe (`\`) delimited format
 
-![Example](/resource/example.png)
+![Example](https://i.imgur.com/bICBpRY.png)
